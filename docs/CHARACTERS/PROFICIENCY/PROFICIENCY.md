@@ -12,9 +12,9 @@ Proficiencies that cannot be effectively guessed at, require information not par
 
 While proficiencies are largely grouped as Physical, Mental, or Social, wherever awareness, intuition, community, building, or knowledge come into play, these proficiencies represent experience enough to apply.
 
-| **[[PUBLICFACING/Road and Ruin - Copy/CHARACTERS/PROFICIENCY/PROFICIENCY TYPES/Gear Proficiency/GEAR PROFICIENCIES]]**  | TYPE                        | **[[PUBLICFACING/Road and Ruin - Copy/CHARACTERS/PROFICIENCY/DISCIPLINE]]** |
+| **[[GEAR PROFICIENCIES]]**  | TYPE                        | **[[DISCIPLINE]]** |
 | :-------------------------- | --------------------------- | :----------------: |
-|  [[PUBLICFACING/Road and Ruin - Copy/CHARACTERS/PROFICIENCY/PROFICIENCY TYPES/Gear Proficiency/Offense/SWORD USE]]              | Weapon                      |                    |
+|  [[SWORD USE]]              | Weapon                      |                    |
 |  [[PUBLICFACING/Road and Ruin - Copy/CHARACTERS/PROFICIENCY/PROFICIENCY TYPES/Gear Proficiency/Offense/MACE USE]]               | Weapon                      |                    |
 |  [[PUBLICFACING/Road and Ruin - Copy/CHARACTERS/PROFICIENCY/PROFICIENCY TYPES/Gear Proficiency/Offense/AXE USE]]                | Weapon, Tool                |                    |
 |  [[PUBLICFACING/Road and Ruin - Copy/CHARACTERS/PROFICIENCY/PROFICIENCY TYPES/Gear Proficiency/Offense/GREATBLADE USE]]         | Weapon                      |                    |
