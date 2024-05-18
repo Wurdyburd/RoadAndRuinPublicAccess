@@ -21,7 +21,7 @@ Mace handles:
 
 Compared to clubs, maces have their weight distributed at the end. This allows for a degree of windup, and having the weight focused to a small point is effective for shattering targets, but means they aren't as effective in tight spaces or for blocking attacks.
 
-As a weapon, maces are [[SIMPLE WEAPONS]], and can be [[IMPROVISED]] with any end-heavy object, such as branches or bones, but their unusual weight distribution may mean a club is more likely.
+As a weapon, maces are [[SIMPLE WEAPON]], and can be [[IMPROVISED]] with any end-heavy object, such as branches or bones, but their unusual weight distribution may mean a club is more likely.
 
 | STANDARD      |                                          |
 | ------------- | ---------------------------------------- |

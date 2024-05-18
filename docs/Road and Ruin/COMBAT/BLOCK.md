@@ -1,0 +1,1 @@
+ [[BLOCK]]ing with a [[SHIELD]] acts like a weapon attack, generating bonus Armor based on your results on a dice roll. If a shield's value is Armor4, rolling a Glancing Blow adds only 2.

@@ -42,7 +42,7 @@ When *Road and Ruin* aims to produce a story, a story is defined as a series of 
 
 So long as everyone at the table is enjoying themselves, a sense of thrill is achieved, and/or a memorable story is produced, the experience is considered a success.
 
-A story, mechanically, is often comprised of two major variables: a Tale, and Roles.
+A story, mechanically, is often comprised of two major variables: [[TALE]], and [[ROLE]].
 
 Tales are storytelling structures produce a predictable framework of connect-the-dots events for storytellers who may be unfamiliar with the patterns and tropes of a specific genre, whereas Roles represent a categorical umbrella of sorts, a collection of actions and skills that help to move the story forward.
 

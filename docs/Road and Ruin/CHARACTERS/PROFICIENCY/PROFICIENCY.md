@@ -2,9 +2,15 @@
 tags:
   - Proficiency
 ---
-Practice or an innate knack for certain kinds of activity are represented by proficiency.
+Proficiencies describe a practice or an innate knack for certain kinds of activity.
 
 Each proficiency can grant between 0 and 5 points of benefit, and up to two relevant proficiencies can be applied to a situational dice roll at a time.
+
+_____________________
+Some characters gain features that grant you a degree of expertise that simultaneously goes beyond the realm of a simple proficiency combination, in a topic that's too narrow or niche to be broadly applicable.
+Having a [[SPECIALIZATION]] in a specific approach to a specific activity, defined as a combination of two of Who, What, When, Where, Why, or How, grants a bonus to skill checks:
+- ADDUP: Adds another die to the pool, put down as a guaranteed 10.
+- OUTCOME: Grants +5 bonus, in the same way as Monstrous does. This lets a more mortal specialist compete with monsters, but monstrous specialists, like gods, be truly powerful.
 
 _____________________
 
@@ -12,7 +18,7 @@ Proficiencies that cannot be effectively guessed at, require information not par
 
 While proficiencies are largely grouped as Physical, Mental, or Social, wherever awareness, intuition, community, building, or knowledge come into play, these proficiencies represent experience enough to apply.
 
-| **[[GEAR PROFICIENCIES]]**    | TYPE                        | **[[DISCIPLINE]]** |
+| **[[GEAR PROFICIENCY]]** (19) | TYPE                        | **[[DISCIPLINE]]** |
 | :---------------------------- | --------------------------- | :----------------: |
 | **[[SWORD USE]]**             | Weapon                      |                    |
 | **[[MACE USE]]**              | Weapon                      |                    |
@@ -34,98 +40,100 @@ While proficiencies are largely grouped as Physical, Mental, or Social, wherever
 | **[[STAFF USE]]**             | Artifact                    |         X          |
 | **[[TRINKET USE]]**           | Artifact                    |         X          |
 
-| **NAME**         | TYPE      | **[[DISCIPLINE]]** |
-| :--------------- | --------- | :----------------: |
-| [[ATHLETICS]]    | Physical. |                    |
-| [[BALANCE]]      | Physical. |                    |
-| [[DRIFT]]        | Physical. |                    |
-| [[GESTURE]]      | Physical. |                    |
-| [[HARVEST]]      | Physical  |         X          |
-| [[HAULING]]      | Physical. |                    |
-| [[MANIPULATION]] | Physical. |                    |
-| [[PERCEPTION]]   | Physical. |                    |
-| [[PITCH]]        | Physical. |                    |
-| [[RIDE]]         | Physical. |                    |
-| [[SNEAK]]        | Physical. |                    |
-| [[SOMATOSENSE]]  | Physical. |                    |
-| [[SURVIVAL]]     | Physical. |         X          |
-| [[TASTE]]        | Physical. |                    |
-| [[TEMPO]]        | Physical. |                    |
+| **NAME** (15)    | TYPE      | **[[DISCIPLINE]]** | EXAMPLE [[SPECIALIZATION]]S               |
+| :--------------- | --------- | :----------------: | ----------------------------------------- |
+| [[ATHLETICS]]    | Physical. |                    |                                           |
+| [[BALANCE]]      | Physical. |                    | Cliffs, trees, ropes, ice                 |
+| [[DRIFT]]        | Physical. |                    | Deep sea, open sky, aether                |
+| [[GESTURE]]      | Physical. |                    |                                           |
+| [[HARVEST]]      | Physical  |         X          |                                           |
+| [[HAULING]]      | Physical. |                    | Deadlift, grappling, rescue carry         |
+| [[MANIPULATION]] | Physical. |                    | Pickpocket, sleight of hand, juggling     |
+| [[PERCEPTION]]   | Physical. |                    | Low-light, smell, hearing                 |
+| [[PITCH]]        | Physical. |                    |                                           |
+| [[RIDE]]         | Physical. |                    | Chariot, boat, horseback                  |
+| [[SOMATOSENSE]]  | Physical. |                    | Hidden panels, lock tumblers, tremorsense |
+| [[STEALTH]]      | Physical. |                    | Stalking, stowing, crowds                 |
+| [[SURVIVAL]]     | Physical. |         X          | Hunting, shelter, forest edibles          |
+| [[TASTE]]        | Physical. |                    |                                           |
+| [[TEMPO]]        | Physical. |                    |                                           |
 
-| **NAME**          | TYPE    | **[[DISCIPLINE]]** |
-| :---------------- | ------- | :----------------: |
-| [[ATTUNEMENT]]    | Mental. |                    |
-| [[CHANNELING]]    | Mental. |                    |
-| [[CIVILIZATION]]  | Mental. |         X          |
-| [[CRAFTS]]        | Mental. |         X          |
-| [[ENTRAPMENT]]    | Mental. |                    |
-| [[GRIMOIRE]]      | Mental. |                    |
-| [[HERBALISM]]     | Mental. |         X          |
-| [[INSIGHT]]       | Mental. |                    |
-| [[INVESTIGATION]] | Mental. |                    |
-| [[LANGUAGES]]     | Mental. |         X          |
-| [[MEDICINE]]      | Mental. |         X          |
-| [[RESEARCH]]      | Mental. |         X          |
-| [[RUNES]]         | Mental. |         X          |
-| [[STRATEGY]]      | Mental. |                    |
+| **NAME** (15)     | TYPE    | **[[DISCIPLINE]]** | EXAMPLE [[SPECIALIZATION]]S                                                              |
+| :---------------- | ------- | :----------------: | ---------------------------------------------------------------------------------------- |
+| [[ATTUNEMENT]]    | Mental. |                    | Detect magic, sense spirits, dowse leyline                                               |
+| [[CHANNELING]]    | Mental. |                    | Energy transfer, maintain enchantment, seance                                            |
+| [[CIVILIZATION]]  | Mental. |         X          | History, religion, myths, politics, trade, lowborn                                       |
+| [[CRAFTS]]        | Mental. |         X          | Iron, wood, architecture, scripture, weapons                                             |
+| [[ENTRAPMENT]]    | Mental. |                    | Detection, disarming, disguising, riddles, loopholes                                     |
+| [[GRIMOIRE]]      | Mental. |                    | Artifacts, enchantments, read mind                                                       |
+| [[HERBALISM]]     | Mental. |         X          | Gardening, medicines, teas, flowers, mushrooms                                           |
+| [[INSIGHT]]       | Mental. |                    | Estimate value, notice behavior, combat aptitude                                         |
+| [[INVESTIGATION]] | Mental. |                    | Interrogation, searching, predict behavior                                               |
+| [[LANGUAGE]]      | Mental. |         X          | Poetry, spellspeak, Realm, Eldavish, Briq, Tennor, sign                                  |
+| [[MEDICINE]]      | Mental. |         X          | Surgery, battlefield doctor, veterinary science                                          |
+| [[RESEARCH]]      | Mental. |         X          | Medicine, religion, politics, history, alchemy, astronomy, planes, geography, philosophy |
+| [[RITUAL]]        | Mental. |         X          |                                                                                          |
+| [[RUNES]]         | Mental. |         X          |                                                                                          |
+| [[STRATEGY]]      | Mental. |                    |                                                                                          |
 
-| **NAME**         | TYPE    | **[[DISCIPLINE]]** |
-| :--------------- | ------- | :----------------: |
-| [[BINDING]]      | Social. |                    |
-| [[COGNIZANCE]]   | Social. |                    |
-| [[COMMANDING]]   | Social. |                    |
-| [[DECEPTION]]    | Social. |                    |
-| [[EMPATHY]]      | Social. |                    |
-| [[HUSBANDRY]]    | Social. |         X          |
-| [[INTIMIDATION]] | Social. |                    |
-| [[MEDIATION]]    | Social. |                    |
-| [[PERFORM]]      | Social. |         X          |
-| [[PERSUASION]]   | Social. |                    |
-| [[PRESENCE]]     | Social. |                    |
-| [[SEDUCTION]]    | Social. |                    |
-| [[SPIRITUALISM]] | Social. |         X          |
+| **NAME** (13)    | TYPE    | **[[DISCIPLINE]]** | EXAMPLE [[SPECIALIZATION]]S                        |
+| :--------------- | ------- | :----------------: | -------------------------------------------------- |
+| [[BINDING]]      | Social. |                    |                                                    |
+| [[COGNIZANCE]]   | Social. |                    |                                                    |
+| [[COMMANDING]]   | Social. |                    |                                                    |
+| [[DECEPTION]]    | Social. |                    | Disguise, grifting, misdirection                   |
+| [[EMPATHY]]      | Social. |                    | Therapy, target emotional vulnerabilities          |
+| [[HUSBANDRY]]    | Social. |         X          | Wildlife observation, training, soothing           |
+| [[INTIMIDATION]] | Social. |                    | Blackmail, roughing up, threatening aura           |
+| [[MEDIATION]]    | Social. |                    | Haggling, compromise, barter, spiritual bridge     |
+| [[PERFORM]]      | Social. |         X          | Song, dance, tricks, instruments, comedy           |
+| [[PERSUASION]]   | Social. |                    | Speeches, begging, appeal to better nature         |
+| [[PRESENCE]]     | Social. |                    | Boosting morale, distraction, handling an audience |
+| [[SEDUCTION]]    | Social. |                    |                                                    |
+| [[SPIRITUALISM]] | Social. |         X          | Gods, demons, spirits, ghosts, totems              |
 
-| **NAME**          | TYPE      | **[[DISCIPLINE]]** |
-| :---------------- | --------- | :----------------: |
-| [[ATTUNEMENT]]    | Mental.   |                    |
-| [[CHANNELING]]    | Mental.   |                    |
-| [[CIVILIZATION]]  | Mental.   |         X          |
-| [[CRAFTS]]        | Mental.   |         X          |
-| [[ENTRAPMENT]]    | Mental.   |                    |
-| [[GRIMOIRE]]      | Mental.   |                    |
-| [[HERBALISM]]     | Mental.   |         X          |
-| [[INSIGHT]]       | Mental.   |                    |
-| [[INVESTIGATION]] | Mental.   |                    |
-| [[LANGUAGES]]     | Mental.   |         X          |
-| [[MEDICINE]]      | Mental.   |         X          |
-| [[RESEARCH]]      | Mental.   |         X          |
-| [[RUNES]]         | Mental.   |         X          |
-| [[STRATEGY]]      | Mental.   |                    |
-| [[ATHLETICS]]     | Physical  |         X          |
-| [[BALANCE]]       | Physical. |                    |
-| [[DRIFT]]         | Physical. |                    |
-| [[GESTURE]]       | Physical. |                    |
-| [[HARVEST]]       | Physical. |                    |
-| [[HAULING]]       | Physical. |                    |
-| [[MANIPULATION]]  | Physical. |                    |
-| [[PERCEPTION]]    | Physical. |                    |
-| [[PITCH]]         | Physical. |                    |
-| [[RIDE]]          | Physical. |                    |
-| [[SNEAK]]         | Physical. |                    |
-| [[SOMATOSENSE]]   | Physical. |                    |
-| [[SURVIVAL]]      | Physical. |         X          |
-| [[TASTE]]         | Physical. |                    |
-| [[TEMPO]]         | Physical. |                    |
-| [[BINDING]]       | Social.   |                    |
-| [[COGNIZANCE]]    | Social.   |                    |
-| [[COMMANDING]]    | Social.   |                    |
-| [[DECEPTION]]     | Social.   |                    |
-| [[EMPATHY]]       | Social.   |                    |
-| [[HUSBANDRY]]     | Social.   |         X          |
-| [[INTIMIDATION]]  | Social.   |                    |
-| [[MEDIATION]]     | Social.   |                    |
-| [[PERFORM]]       | Social.   |         X          |
-| [[PERSUASION]]    | Social.   |                    |
-| [[PRESENCE]]      | Social.   |                    |
-| [[SEDUCTION]]     | Social.   |                    |
-| [[SPIRITUALISM]]  | Social.   |         X          |
+| **NAME**          | TYPE      | **[[DISCIPLINE]]** | EXAMPLE [[SPECIALIZATION]]S                                                              |
+| :---------------- | --------- | :----------------: | ---------------------------------------------------------------------------------------- |
+| [[ATTUNEMENT]]    | Mental.   |                    | Detect magic, sense spirits, dowse leyline                                               |
+| [[CHANNELING]]    | Mental.   |                    | Energy transfer, maintain enchantment, seance                                            |
+| [[CIVILIZATION]]  | Mental.   |         X          | History, religion, myths, politics, trade, lowborn                                       |
+| [[CRAFTS]]        | Mental.   |         X          | Iron, wood, architecture, scripture, weapons                                             |
+| [[ENTRAPMENT]]    | Mental.   |                    | Detection, disarming, disguising, riddles, loopholes                                     |
+| [[GRIMOIRE]]      | Mental.   |                    | Artifacts, enchantments, read mind                                                       |
+| [[HERBALISM]]     | Mental.   |         X          | Gardening, medicines, teas, flowers, mushrooms                                           |
+| [[INSIGHT]]       | Mental.   |                    | Estimate value, notice behavior, combat aptitude                                         |
+| [[INVESTIGATION]] | Mental.   |                    | Interrogation, searching, predict behavior                                               |
+| [[LANGUAGE]]      | Mental.   |         X          | Poetry, spellspeak, Realm, Eldavish, Briq, Tennor, sign                                  |
+| [[MEDICINE]]      | Mental.   |         X          | Surgery, battlefield doctor, veterinary science                                          |
+| [[RESEARCH]]      | Mental.   |         X          | Medicine, religion, politics, history, alchemy, astronomy, planes, geography, philosophy |
+| [[RITUAL]]        | Mental.   |         X          |                                                                                          |
+| [[RUNES]]         | Mental.   |         X          |                                                                                          |
+| [[STRATEGY]]      | Mental.   |                    |                                                                                          |
+| [[ATHLETICS]]     | Physical  |         X          |                                                                                          |
+| [[BALANCE]]       | Physical. |                    | Cliffs, trees, ropes, ice                                                                |
+| [[DRIFT]]         | Physical. |                    | Deep sea, open sky, aether                                                               |
+| [[GESTURE]]       | Physical. |                    |                                                                                          |
+| [[HARVEST]]       | Physical. |                    |                                                                                          |
+| [[HAULING]]       | Physical. |                    | Deadlift, grappling, rescue carry                                                        |
+| [[MANIPULATION]]  | Physical. |                    | Pickpocket, sleight of hand, juggling                                                    |
+| [[PERCEPTION]]    | Physical. |                    | Low-light, smell, hearing                                                                |
+| [[PITCH]]         | Physical. |                    |                                                                                          |
+| [[RIDE]]          | Physical. |                    | Chariot, boat, horseback                                                                 |
+| [[SOMATOSENSE]]   | Physical. |                    | Hidden panels, lock tumblers, tremorsense                                                |
+| [[STEALTH]]       | Physical. |                    | Stalking, stowing, crowds                                                                |
+| [[SURVIVAL]]      | Physical. |         X          | Hunting, shelter, forest edibles                                                         |
+| [[TASTE]]         | Physical. |                    |                                                                                          |
+| [[TEMPO]]         | Physical. |                    |                                                                                          |
+| [[BINDING]]       | Social.   |                    |                                                                                          |
+| [[COGNIZANCE]]    | Social.   |                    |                                                                                          |
+| [[COMMANDING]]    | Social.   |                    |                                                                                          |
+| [[DECEPTION]]     | Social.   |                    | Disguise, grifting, misdirection                                                         |
+| [[EMPATHY]]       | Social.   |                    | Therapy, target emotional vulnerabilities                                                |
+| [[HUSBANDRY]]     | Social.   |         X          | Wildlife observation, training, soothing                                                 |
+| [[INTIMIDATION]]  | Social.   |                    | Blackmail, roughing up, threatening aura                                                 |
+| [[MEDIATION]]     | Social.   |                    | Haggling, compromise, barter, spiritual bridge                                           |
+| [[PERFORM]]       | Social.   |         X          | Song, dance, tricks, instruments, comedy                                                 |
+| [[PERSUASION]]    | Social.   |                    | Speeches, begging, appeal to better nature                                               |
+| [[PRESENCE]]      | Social.   |                    | Boosting morale, distraction, handling an audience                                       |
+| [[SEDUCTION]]     | Social.   |                    |                                                                                          |
+| [[SPIRITUALISM]]  | Social.   |         X          | Gods, demons, spirits, ghosts, totems                                                    |

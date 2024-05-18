@@ -21,7 +21,7 @@ The handle:
 - Has a pommel end, used to keep the handle attached to the tang of the blade
 - May have a wrapping of leather or cloth for better grip
 
-Swords are an extremely versatile weapon, with many cultural techniques that may require [[SWORD USE]] proficiency, but can easily be swung as [[SIMPLE WEAPONS]].
+Swords are an extremely versatile weapon, with many cultural techniques that may require [[SWORD USE]] proficiency, but can easily be swung as [[SIMPLE WEAPON]].
 
 Because of the cultural significance and history of swords, they may be worn as badges of honor, or be otherwise quite decorative and unsuitable for real combat.
 

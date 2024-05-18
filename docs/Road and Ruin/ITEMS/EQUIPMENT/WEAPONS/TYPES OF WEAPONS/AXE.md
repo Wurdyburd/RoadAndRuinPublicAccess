@@ -23,7 +23,7 @@ The handle:
 
 Axes double as a tool, used for chopping and severing.
 They often require two hands for a well-powered swing, but smaller, lighter, one-handed axes called hatchets can be used for lighter work.
-As a weapon, they can be used as [[SIMPLE WEAPONS]].
+As a weapon, they can be used as [[SIMPLE WEAPON]].
 More advanced techniques or familiarity with axes require [[AXE USE]] proficiency.
 An example of an [[IMPROVISED]] axe might be a shovel.
 

@@ -15,7 +15,7 @@ Compared to maces, clubs have their weight distributed along their length. This 
 
 As a weapon, they are normally carried as a non-lethal deterrent, but can still inflict lethal wounds with enough blows with strong enough force.
 
-Clubs are [[SIMPLE WEAPONS]], and can easily be [[IMPROVISED]] with any sufficiently heavy object, including branches and logs, large enough bones, or metal rods.
+Clubs are [[SIMPLE WEAPON]], and can easily be [[IMPROVISED]] with any sufficiently heavy object, including branches and logs, large enough bones, or metal rods.
 
 | STANDARD      |                                          |
 | ------------- | ---------------------------------------- |

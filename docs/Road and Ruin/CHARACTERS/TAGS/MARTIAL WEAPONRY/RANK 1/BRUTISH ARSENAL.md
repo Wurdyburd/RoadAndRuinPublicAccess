@@ -11,6 +11,6 @@ tags:
 ---
 *"With weapons designed to carve and crush, raiders can break and tear with frightening efficiency."*
 
-- Gain +1 proficiency with a [[SIMPLE WEAPONS]], such as daggers, swords, clubs, maces, spears, or axes.
-- R2: Gain another selection, or learn the Brutal Blow technique:
-- BRUTAL BLOW: [Technique]. Double the stamina cost and exhaust 1END (triple Exertion) of a mid-sized or larger proficient weapon's attack to roll an additional [[SPECIAL]] die.
+- Gain +1 proficiency with a [[SIMPLE WEAPON]], such as daggers, swords, clubs, maces, spears, or axes, and , and +5 [[EXERTION]].
+- R2: Gain another proficiency, or learn the Brutal Blow technique:
+- BRUTAL BLOW: [Technique]. [[EXERT]] of a mid-sized or larger proficient weapon's attack to roll an additional [[SPECIAL]] die.

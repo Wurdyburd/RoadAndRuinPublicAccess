@@ -1,0 +1,1 @@
+-Flapping to generate or maintain elevation costs Exertion, gliding doesn't

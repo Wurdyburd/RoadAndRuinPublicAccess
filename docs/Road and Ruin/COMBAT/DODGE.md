@@ -1,0 +1,1 @@
+- A [[DODGE]] is a skill check, increasing in difficulty with the weapon's attack accuracy and speed, which can evade weapon contact altogether. FAIL instead reduced the weapon's attack by one accuracy type, while FAIL/AND adds 50% accuracy to the attack.

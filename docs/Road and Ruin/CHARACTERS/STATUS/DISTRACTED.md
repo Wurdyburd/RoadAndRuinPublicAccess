@@ -2,10 +2,20 @@
 tags:
   - Status
   - Distracted
+  - Intention
 ---
-When equipment, materials, or supplies are scarce, or out of reach and time is short, or an untrained craftsperson is taking a stab at a new project, the item might be defined as Improvised. This equipment is serviceable, but made of either extremely shoddy craftsmanship, or even just a random item from the environment.
+Sometimes, something unexpected happens that catches creatures off-guard and off-balance, as they scramble to Pivot.
 
-For example, using a branch as an improvised mace, a torn strip of clothing as a bandage or a chair leg as a splint, eating uncooked foraged edibles, or even lifting a weapon that you've never held long enough to become familiar with. Using broken or damaged equipment for it's intended purpose also quantifies it as improvised, such as a frayed climbing rope, or a rusty, pockmarked knife.
+Any creature may opt to change their Intention on a dime, deviating from their declared course of action. This can mean hastily raising your shield against an expected attack, turning your bow onto an enemy who just emerged from hiding, or running to help an ally hanging off a ledge. Breaking formation to go hastily enact repairs, you rush and fumble your tools, leading to shoddy craftsmanship; turning tail to flee the battlefield leaves you open to counterattack, your back a mark for archers and swordsmen alike.
 
-- Each level of improvised status imposes 2 Bad Luck.
-- The Fail-And consequences for improvised equipment should involve the equipment becoming unusably broken in some way, such as the rope snapping and becoming unspun, or the knife shattering.
+- Altering or otherwise acting outside your [[INTENTION]] inflicts one stack of the Distracted status. Getting knocked over, concussed, scared, or having an Intention that conflicts with a [[BELIEF]] can also inflict Distracted, as can levels of exhaustion, being [[SURPRISED]], or different spells, or even a literal distraction.
+- Pivoting without taking a round to [[ASSESS]] first inflicts an amount of Distracted equal to the number of proficiencies you're missing. Having two inflicts one stack, missing one inflicts two stacks, and missing both inflicts three stacks.
+- Distraction lasts for a duration based on a [[REACTION]] check, and reduces the number of active stacks at the end of the duration by 1, which can persist across several rounds
+
+> **A stack of Distraction:**
+> - **Reduces your reaction speed by 1 Timeline pip**
+> - **Reduces your weapon To Hit accuracy and increases Outcome Difficulty by 1**
+> - **Rerolls the Outcome die, taking the lowest result from the group.**
+> - **Is removed at the end of the round. The remaining stacks persist to the following round.**
+
+Different features may alter these effects in different ways.

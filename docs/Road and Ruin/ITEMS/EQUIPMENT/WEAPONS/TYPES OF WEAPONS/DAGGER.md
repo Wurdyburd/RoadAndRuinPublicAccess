@@ -29,7 +29,7 @@ Daggers and knives double as a general-purpose tool, for anything from severing 
 
 Daggers are easily carried just about anywhere on one's person, such as in boots or on the leg, the hip or belt, or under the arm. These make them very effective [[QUICK DRAW]] and [[CONCEALABLE]] weapons, for self defense, or [[SNEAK ATTACKS]], and their small size mean they can target vulnerabilities, given a short enough distance and precise enough accuracy.
 
-As a weapon, they can be defined as [[SIMPLE WEAPONS]], but given their combat advantages, many advanced techniques have been developed that require [[DAGGER USE]] proficiency.
+As a weapon, they can be defined as [[SIMPLE WEAPON]], but given their combat advantages, many advanced techniques have been developed that require [[DAGGER USE]] proficiency.
 
 They can also be thrown with a good degree of accuracy at short ranges and if properly weighted, penetrating tip-first into a target, using [[THROWN WEAPON USE]] proficiency.
 
