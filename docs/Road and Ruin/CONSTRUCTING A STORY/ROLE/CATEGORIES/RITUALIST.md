@@ -7,7 +7,7 @@ tags:
 ---
 Power need not stem from years of training or intensive learning; sometimes, all you need is a deal. Contracts struck with fae or demon, or rewards for your devotion to a god, place in hand a power not entirely your own.
 
-Ritualists are solve their problems with other people's power, as a kind of blend of [[WIZARD]] and [[COMMANDER]]. They may meet and broker (what seems like) a fair deal, or pledge their unwavering loyalty to a master, or even summon an entity, only to bind it to their will.
+Ritualists are solve their problems with other people's power, as a kind of blend of [[SAGE]] and [[COMMANDER]]. They may meet and broker (what seems like) a fair deal, or pledge their unwavering loyalty to a master, or even summon an entity, only to bind it to their will.
 
 Commonly, power will be either seized through sheer force of will, chaining an entity to your soul, and terrorizing it into submission, requesting an audience with a being to beseech it's mercy, or calling upon a devil, to offer some kind of trade, or [[BARGAINING]]. Doing these things typically costs Spirit Points, as does wielding the creature's power in it's stead.
 

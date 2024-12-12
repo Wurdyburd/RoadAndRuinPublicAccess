@@ -1,3 +1,45 @@
+Basic Concepts:
+
+Character Creation: A combination of variables, including species and subtypes, variation from the standard attributes, and proficiencies, specializations, and skills. 
+
+Build Concepts: These mechanics are the primary components that connect themes.
+
+|                      | DESCRIPTION                                                      |
+| -------------------- | ---------------------------------------------------------------- |
+| Favored Weapons.     |                                                                  |
+| Favored Spells.      |                                                                  |
+| Blessing.            |                                                                  |
+| Curse.               |                                                                  |
+| Reputation.          |                                                                  |
+| Battle.              | Includes Exhaustion, Bloodied.                                   |
+|                      |                                                                  |
+| Materials.           | Includes harvests, properties,                                   |
+| Biological Traits.   |                                                                  |
+| Behavior.            |                                                                  |
+| Enchantment.         |                                                                  |
+| Clusters.            |                                                                  |
+| Technique.           |                                                                  |
+| Rituals.             |                                                                  |
+| Alchemy.             |                                                                  |
+| Equipment.           |                                                                  |
+| Elements.            | Includes Fire, Water, Zephyr, Gaia, Lightning, Ice, Light, Dark. |
+| Spirits.             |                                                                  |
+| Companions.          | Includes pets, squads.                                           |
+| Tactics.             |                                                                  |
+| Speed.               |                                                                  |
+| Favored Environment. |                                                                  |
+| Favored Enemy.       |                                                                  |
+| Essence.             |                                                                  |
+| Undead.              |                                                                  |
+| Cooking.             |                                                                  |
+| Order.               | Includes Roles.                                                  |
+| Planes.              |                                                                  |
+| Stars.               |                                                                  |
+| Discovery.           |                                                                  |
+| Destruction.         |                                                                  |
+| Decay.               |                                                                  |
+| Resources.           |                                                                  |
+| Growth.              |                                                                  |
 
 |     | LINK                         | FIELD    | STATUS | DESCRIPTION |
 | --- | ---------------------------- | -------- | ------ | ----------- |
@@ -151,7 +193,7 @@
 |     | [[SNEAK]]                    | ROLE     |        |             |
 |     | [[SOCIALITE]]                | ROLE     |        |             |
 |     | [[WARRIOR]]                  | ROLE     |        |             |
-|     | [[WIZARD]]                   | ROLE     |        |             |
+|     | [[SAGE]]                   | ROLE     |        |             |
 |     | [[TALE]]                     | TALE     |        |             |
 |     | [[ACTION TALE]]              | TALE     |        |             |
 |     | [[DARK LORD]]                | TALE     |        |             |

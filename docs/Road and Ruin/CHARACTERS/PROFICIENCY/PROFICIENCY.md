@@ -40,7 +40,7 @@ While proficiencies are largely grouped as Physical, Mental, or Social, wherever
 | **[[STAFF USE]]**             | Artifact                    |         X          |
 | **[[TRINKET USE]]**           | Artifact                    |         X          |
 
-| **NAME** (15)    | TYPE      | **[[DISCIPLINE]]** | EXAMPLE [[SPECIALIZATION]]S               |
+| **NAME** (16)    | TYPE      | **[[DISCIPLINE]]** | EXAMPLE [[SPECIALIZATION]]S               |
 | :--------------- | --------- | :----------------: | ----------------------------------------- |
 | [[ATHLETICS]]    | Physical. |                    |                                           |
 | [[BALANCE]]      | Physical. |                    | Cliffs, trees, ropes, ice                 |
@@ -71,6 +71,7 @@ While proficiencies are largely grouped as Physical, Mental, or Social, wherever
 | [[INVESTIGATION]] | Mental. |                    | Interrogation, searching, predict behavior                                               |
 | [[LANGUAGE]]      | Mental. |         X          | Poetry, spellspeak, Realm, Eldavish, Briq, Tennor, sign                                  |
 | [[MEDICINE]]      | Mental. |         X          | Surgery, battlefield doctor, veterinary science                                          |
+| [[NAVIGATION]]    | Mental. |                    | Inventing landmarks, nautical charts, rescue the lost                                    |
 | [[RESEARCH]]      | Mental. |         X          | Medicine, religion, politics, history, alchemy, astronomy, planes, geography, philosophy |
 | [[RITUAL]]        | Mental. |         X          |                                                                                          |
 | [[RUNES]]         | Mental. |         X          |                                                                                          |
@@ -105,6 +106,7 @@ While proficiencies are largely grouped as Physical, Mental, or Social, wherever
 | [[INVESTIGATION]] | Mental.   |                    | Interrogation, searching, predict behavior                                               |
 | [[LANGUAGE]]      | Mental.   |         X          | Poetry, spellspeak, Realm, Eldavish, Briq, Tennor, sign                                  |
 | [[MEDICINE]]      | Mental.   |         X          | Surgery, battlefield doctor, veterinary science                                          |
+| [[NAVIGATION]]    | Mental.   |                    | Inventing landmarks, nautical charts, rescue the lost                                    |
 | [[RESEARCH]]      | Mental.   |         X          | Medicine, religion, politics, history, alchemy, astronomy, planes, geography, philosophy |
 | [[RITUAL]]        | Mental.   |         X          |                                                                                          |
 | [[RUNES]]         | Mental.   |         X          |                                                                                          |

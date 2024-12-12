@@ -13,4 +13,4 @@ tags:
 
 - Gain +1 proficiency with a [[SIMPLE WEAPON]], such as daggers, swords, clubs, maces, spears, or axes, and , and +5 [[EXERTION]].
 - R2: Gain another proficiency, or learn the Brutal Blow technique:
-- BRUTAL BLOW: [Technique]. [[EXERT]] of a mid-sized or larger proficient weapon's attack to roll an additional [[SPECIAL]] die.
+- BRUTAL BLOW: [[TECHNIQUE]]. [[EXERT]] a mid-sized or larger proficient weapon's attack to roll an additional [[SPECIAL]] die.

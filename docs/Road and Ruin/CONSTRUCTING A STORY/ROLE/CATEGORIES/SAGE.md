@@ -3,15 +3,15 @@ tags:
   - Storytelling
   - GameBalance
   - Roles
-  - Wizard
+  - Sage
 ---
 A researcher and studier of mana, in all it's forms. You prioritize learning, in subjects either broad, deep, or both. Limited only by your keen mind and power supply, you understand that knowledge is the greatest treasure.
 
-Wizards' great mental intellect means their predilection for puzzles and mastery of magic often go hand in hand. While not necessarily bordering on obsession, you're defined by your keen interests, that drive you to places, people, and things, and never stop being interesting for you.
+Sages' great mental intellect means their predilection for puzzles and mastery of magic often go hand in hand. While not necessarily bordering on obsession, you're defined by your keen interests, that drive you to places, people, and things, and never stop being interesting for you.
 
-Wizards are often specialists with a [[DISCIPLINE]], if not boasting several, knowledge and skills that help them keep above the common, and both compete with their peers, and be able to learn from them.
+Sage are often specialists with a [[DISCIPLINE]], if not boasting several, knowledge and skills that help them keep above the common, and both compete with their peers, and be able to learn from them.
 
-Some example Wizard [[DISCIPLINE]]s:
+Some example Sage [[DISCIPLINE]]s:
 - Historian.
 - Alchemist.
 - Enchanter.
@@ -36,11 +36,11 @@ Some tag skills that you may get use out of:
 | NAME              | REASON                                                                                                                                         |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | SPELL DIP         | If playing a spellcaster, the first ranks of each Tag represent several diverse spells, that can help with exploration, experiments, and more. |
-| THRYSIAN ADDENDUM | Powerful, if restrained, spells and features for enchantments and amplifications work to empower a Wizard's best efforts.                      |
+| THRYSIAN ADDENDUM | Powerful, if restrained, spells and features for enchantments and amplifications work to empower a Sage's best efforts.                        |
 | THRYSIAN REVISION | When your best efforts aren't enough, spells that change the narrative entirely are the next best thing.                                       |
 | ARCANE ARSENAL    | Beyond spell weaponization, enchantment tech and more powerful tool use makes your sorcerous powers have a much longer lasting benefit.        |
 | FLORAL FLOURISH   | Beyond alchemical herbalism, these spells have powerful effects when used on others and yourself, manipulating moods.                          |
-Playing a Wizard is about having an intellectual pursuit. Delving into dungeons for lost knowledge or artifacts, meeting with specialists and discussing research with peers, and mastering the equipment associated with your field, are all ways that a Wizard might plan their day-to-day. There's little doubt that you understand any risks involved, but that doesn't mean you won't push past them in pursuit of your interests, especially if the opportunity appears limited.
+Playing a Sage is about having an intellectual pursuit. Delving into dungeons for lost knowledge or artifacts, meeting with specialists and discussing research with peers, and mastering the equipment associated with your field, are all ways that a Sage might plan their day-to-day. There's little doubt that you understand any risks involved, but that doesn't mean you won't push past them in pursuit of your interests, especially if the opportunity appears limited.
 
 
 

@@ -24,3 +24,22 @@ The key features of Road and Ruin include:
 
 
 
+
+________________________
+## THE PILLARS
+
+This section acts as a (temporary) reduction of the game's mechanics and components, for the sake of character definition options and storytelling.
+
+
+THE CARDS
+- Generative elements that ask to be interpreted by theme, rather than purely by number.
+- COMPARE: On a scale rating STRONG, SOME, or ZERO relationship.
+- TYPE: Story, Fire, Water, Air, Earth, Ice, Thunder, Light, Dark, People, Categories, Spirits, Concept
+- DISTINCTION: Person, Creature, Item, Event, Location, Trait, *combine*
+
+OUTCOME
+- Influenced by Proficiency and Specialization, Equipment, and Circumstance
+- RESULTS: Very Bad, Bad, Bad with Insight, Good at a Cost, Good, Very Good
+
+CHAPTER BUILDING
+- "FAILED SKILL CHECKS IN CHAPTER 1 CAN AUTOMATICALLY SUCCEED BY SELECTING THAT SITUATION AS A SPECIALIZATION"

@@ -14,3 +14,6 @@ tags:
 
 
 #### RACE
+A RACE is a divergence of beliefs, practices, or mutations that affect a genetic heritage to such a degree that it affects descendants of a Tribe.
+
+#### 

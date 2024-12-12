@@ -5,7 +5,7 @@ tags:
   - Roles
   - Crafter
 ---
-One's limits can often be overcome simply by using the right tool for the job, and with them, overcome those limits faster, easier, and with better results. You source your materials, and put in the time, effort, and skill to produce wondrous works.
+One's limits can often be overcome by simply using the right tool for the job, and those with better tools, overcome them faster, easier, and with better results. You source your materials, and put in the time, effort, and skill to produce wondrous works, marvelous efficiency, and well-sourced materials with high-grade properties.
 
 Craftspeople are some of the most pragmatic of the roles, building their way out of problems, constructing solutions. Their talents may be renowned, or simply an honest-day's work, a means to an end. With an eye for detail, craftsfolk are usually responsible for sourcing their own materials, especially if it's something they specialize in, but may go far and wide in the search for just the right element for a masterwork production. They may be in service to a greater cause, or isolated in their arts, but at the end of the day, all have a passion for what they do.
 

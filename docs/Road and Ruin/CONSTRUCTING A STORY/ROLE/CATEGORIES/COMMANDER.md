@@ -15,7 +15,7 @@ Scenarios that may require a Commander:
 - [[WARRIOR]], especially military, with a clear chain of command.
 - [[CRAFTER]]. Working together to build a castle, or sail a ship, or manage a kitchen.
 - [[DUNGEONEER]]. Being a leader of a small, diverse squad of specialists means learning to harness their myriad abilities quickly and effectively.
-- [[WIZARD]]. Researchers drift between having laser focus on a particular subject, and being easily distracted by a new fascination. It's up to you to keep them on task, but also to take their wanderings seriously, because it could lead to new insights and discoveries.
+- [[SAGE]]. Researchers drift between having laser focus on a particular subject, and being easily distracted by a new fascination. It's up to you to keep them on task, but also to take their wanderings seriously, because it could lead to new insights and discoveries.
 - [[SNEAK]]. Even if held at arms' reach, allies give you the ability to consistently be in several places at once, and hit harder, faster, and without notice. A crime ring relies on every member to work.
 
 

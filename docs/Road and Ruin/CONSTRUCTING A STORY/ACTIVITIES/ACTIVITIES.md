@@ -5,7 +5,7 @@ tags:
 ---
 ROLES represent an approximation of how much each build's abilities help it contribute to different types of game content, as well as operates as a jumping-off point for campaign groups to determine which kinds of content they would like to experience, and which they would rather leave out.
 
-| ACTIVITY                | DESCRIPTION | [[EXPLORER]] | [[DUNGEONEER]] | [[WARRIOR]] | [[WIZARD]] | [[CRAFTER]] | [[SNEAK]] | [[SOCIALITE]] | [[COMMANDER]] | [[RITUALIST]] |
+| ACTIVITY                | DESCRIPTION | [[EXPLORER]] | [[DUNGEONEER]] | [[WARRIOR]] | [[SAGE]] | [[CRAFTER]] | [[SNEAK]] | [[SOCIALITE]] | [[COMMANDER]] | [[RITUALIST]] |
 | ----------------------- | ----------- | :----------: | :------------: | :---------: | :--------: | :---------: | :-------: | :-----------: | :-----------: | :-----------: |
 | AUTOPSY                 |             |              |       X        |             |            |             |           |               |               |               |
 | BREACH                  |             |              |       X        |             |            |             |           |               |               |               |

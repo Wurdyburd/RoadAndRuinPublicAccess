@@ -5,6 +5,87 @@
 ________________________
 
 Welcome to the Road and Ruin playtest! This page aims to outline the basic concepts of the game, and offer the fastest rundown on getting ready to play. There are many more rules and concepts that help to make different kinds of game stories as versatile as possible, but for the sake of testing, only the most basic rules are necessary.
+
+The basic principles of the game are as follows:
+
+##### **> Player responsibilities:**
+- Players control one or more characters, either individually or as a team, directing them to locations, and completing tasks, using methods based on skills, beliefs, and personal goals.
+- Players may opt to control a single character as a representation of themselves, but actions should always be carried out by the character from the perspective of the character, including their wants, dreams, and opinions.
+- A single Host can act as primary storyteller, event and card interpreter, and challenge-level setter, or simply be a tiebreaker vote when the table moves to agree on a course of action or a ruling.
+- Players take responsibility for what they call into being, but are not to create challenges that their own character have the means to solve, or story beats that their own character aspires to achieve. Instead, consider what presents the best story, and offer that spotlight to a friend.
+##### **> Generating content:**
+- New story moments are added to the Story Roster, while revelations roll a d20 against the story roster, recurring past characters, creatures, objects, events, and locations, or generating a new element if the die does not correspond to an existing element.
+- Generating new elements, or finding "proof" of theories, draws cards from the Roundtable Deck. Each card can be interpreted by the table as a whole, or a singular Host, and can be inspirational as is, or be based on a d7 die roll, for 1) Person, 2) Creature, 3) Object, 4) Event, 5) Place, 6) A theme or trait, or 7) Draw a second card and combine the new card with the first.
+##### **> Resolving events:**
+- Whenever the result of an action or event can be influenced by differences in skill, or influence the direction of the characters' decisions, a d10 Outcome die is rolled, to determine the positive or negative outcome of the event, and how much it influences the story.
+- The centerpoint of Good/Bad shifts, based on the result of positive and negative modifiers: upwards, for increased difficulty and necessary skill, and downward, for decreased difficulty, possessing skill, and relevant equipment. For instance, having a benefit of 3 changes the threshold of GOOD/BUT from 6, down to 3, GOOD to 4, and GOOD/AND to 7+.
+- As a rule of thumb, +/-1 point of challenge should be the difference of a small child. 2, for a teenager, 3 for someone of practice, 4 for someone of skill, and 5-10 for levels of professional expertise.
+
+| BAD/AND |  BAD  | BAD/BUT | GOOD/BUT | GOOD  | GOOD/AND |
+| :-----: | :---: | :-----: | :------: | :---: | :------: |
+|    1    | 2 3 4 |    5    |    6     | 7 8 9 |    10    |
+
+##### **> Character creation and advancement:**
+- A character is any kind of entity that can perform actions that can influence a story, including solving puzzles and engaging in combat, but also influencing other characters and creatures. They have beliefs, that act as both the font of aspiration and pave the path toward their goals, which are represented in the Story Roster, one item per character.
+- By performing Deeds, based on personal objectives and aspirations, a character can purchase new skills from Tags, gaining Levels, and earning a new Class.
+- CREATURE TYPE: What species the character is, including human and other Tribes, animal and monstrous Beasts, ethereal Spirits, Gods, and Demons, and manufactured Constructs. These define the basic range of Attributes, as well as offering some Specializations.
+- RACE: A creature's upbringing and traditions. Can have biological implications, as well as offer equipment, Proficiencies, Specializations, and sometimes Skills.
+- CLASS: The role a creature currently maintains, either as a Profession, Heroics, or a Shape that transforms them into something new. These grant Proficiency, Specializations, bonus stats, and sometimes equipment or Skills.
+- SKILLS are organized by thematic TAG, and must be purchased in sequential rank using XP gained from Deeds. Purchasing a skill from a new rank qualifies an increase in Level, which may unlock further benefits.
+- ATTRIBUTES describe a creature's basic ability evaluation, and offer advantages or penalties relative to the necessary difficulty of the task. 3 is considered the adult human average, with 2 for children, and 1 for infants (A STR4 character performing an average, STR3 activity gains +1 Outcome bonus). Five-stage sub/supercategories of Monstrous/Titanic, and Miniscule/Microscopic help define extreme creatures and transformations.
+- PROFICIENCY are practiced actions or a trait of "talented" individuals. Up to two proficiencies, of 5 points each, can apply to a single Outcome roll (A +1 and +3 would tilt the Outcome by 4, or 6 down to 2).
+- SPECIALIZATIONS are precise applications of technique and knowledge that have very narrow or niche uses. Actions, activities, and knowledge checks using or requiring a specialization are offset by 5 points on an Outcome roll.
+- A character suffering from fear, stress, or surface-level injuries loses Steadfast Health Points, or SF, and must make checks to see if they flee or crumble when without any. Injuries striking Steadfast reduce the damage to a multiplier of the remaining steadfast. (5 striking 2 inflicts 4 damage)
+- A character may spend Exertion points to add more force to a doable action, or eliminate the penalties of a Tiring or Extended action. Below a threshold, the character becomes Exhausted, causing all actions to have another Tiring penalty, which can be lessened by resting.
+- A character casting spells spends Mana, which may be condensed into a Cluster for faster casting or more explosive results, and requires a Method, such as hand gestures, magic words or song, devices, or symbology, as a ritual. Mana can be gleaned from sources of energy.
+- Characters asserting themselves by invoking authority, evoking an emotion or reaction, or bolstering resistance to influences such as temptation or fear, spend Spirit Points to match or anticipate energies and get a more favorable result. This includes Commands, binding Pets, contacting Spirits, or bartering with a Demon. Excessive spending causes hollowing, which demands even more SP to compensate.
+
+**> Hastened time:**
+- Entering into Hastened Time, where actions are measured across ten Time Pips in a 3-second Round, determines what order events occur.
+- Characters define an Intention, a goal or belief that dictates their immediate actions and expectations. "Subdue the thieves", "Be wary of ambush", and "Escape capture" are intentions; "Fight defensively" would ready a shield to block, but "Fight aggressively" would trade that for spending Exertion on faster or stronger attacks.
+- A character may spend a round to Assess, gathering their wits and observing their surroundings, to form a new Intention, which can be granted to other willing allies with a shout. A character who acts or reacts outside their Intention is rendered Distracted, negatively impacting their speed, accuracy, and skill outcome.
+- A character's Intention may be a course of action that requires multiple 3-second rounds; in such a case, the character is trusted to pursue that course of action until time and Outcome determine their result.
+
+- All characters are considered to begin acting simultaneously at the start of the round.
+- If the precise timing of an action has serious consequences, such as in a duel, or dodging a trap, the characters in question produce an Outcome using an Initiative modifier: the higher of Presumptive Speed (the knowledge of possibilities, INT+ CON + proficiency in the opponent's weapon) and Reactive speed (reflex to sudden change, DEX + WIT + proficiency in your own weapon), against the Action Speed (stamina per meter travelled) of the target.
+- EX: A character "fighting defensively" has the option to block an incoming sword swing with their shield. Their Presumptive Speed is (3+2) +2 Sword, while their Reactive Speed is (2+2) +2 Sword, for a benefit of 7, against the Action Speed of 3. Their Outcome roll improves by 7-3, or 4, bringing the GOOD/BUT threshold down to 2+, greatly increasing their chances of no penalty, but costing them Exertion as a result.
+- EX: The same character wants to dodge an incoming arrow. Their Presumptive 5 has no Bow benefit, and Reactive 4 doesn't benefit from Swords. The arrow's Action speed is 5; point blank, this would eliminate 
+
+- A character making an attack rolls a die based on the method of the attack, and inflicting either a Solid Blow for full damage based on the weapon's Size/Weight, a Glancing Blow for half damage rounded down, or  a Miss for no damage.
+- d4 - ACCURACY, precision attack patterns, including thrusts, stabs, and projectiles. Heavily impacted by range, with high skill reward, high crit chance, but low damage besides.
+- d8 - EDGED, with prolonged scrapes or slices, such as swords or claws. Moderately impacted by armor, moderate reward for skill, moderate crit chance, and moderate damage.
+- d12 - CONTACT and heavy IMPACT, such as clubs and hammers. Scarcely impacted by armor, with a low reward for skill and low critical chance, but high base damage.
+- Some weapons have altered values, such as a whip (d6), or a chopping axe (d10).
+- A [[DODGE]] is an Initiative Outcome skill check that shifts the character to a new location, with all the costs involved.
+- [[ARMOR]] reduces attack To Hit result per layer: Heavy Cloth (1AR), Chainmail (3AR), Thick Leathers (3AR), Metal Plate (4AR). May impose an Exertion tax. [[SHIELD]]S behave like weapons, rolling To Hit, but add AR, half AR, or failing to block. An attack that is not successfully evaded would inflict damage, but is reduced by armor to a value below 0, the attack is considered to have dealt No Damage rather than a Miss.
+- A second Special Die is rolled alongside each To Hit die. If the total of the Special die, plus To Hit Die after dodge modifiers but before armor, is in excess of 100% of the To Hit die's maximum, the weapon's [[SPECIAL]] is activated for each 50% threshold above maximum. This can have armor penetration bonuses, critical damage multipliers, or apply special status effects like bleed or poison if armor fails to prevent the damage.
+
+| RESULT                          | (d4)<br>Accuracy | (d6)<br>Whip | (d8)<br>Edged | (d10)<br>Chop | (d12)<br>Contact |     |
+| ------------------------------- | ---------------- | ------------ | ------------- | ------------- | ---------------- | --- |
+| MISS - Zero damage              | 1                | 1            | 1             | 1             | 1                |     |
+| GLANCING BLOW - <br>Half damage | 2                | 2-3          | 2-4           | 2-5           | 2-6              |     |
+| SOLID BLOW -<br>Full damage     | 3+               | 4+           | 5+            | 6+            | 7+               |     |
+| SPECIAL                         | 6, 8, 10         | 9, 12, 15    | 12, 16, 20    | 15, 20, 25    | 18, 24, 30       |     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # - BASIC PLAY
 #### OUTCOME
 Moment-to-moment gameplay of Road and Ruin involves some basic gameplay loops:
@@ -158,5 +239,5 @@ Social creatures also tend to develop a [[REPUTATION]]. This can result in posit
 
 ________
 
-You can refer to [[EXAMPLE CHARACTERS]] to get an idea of what different types of characters can appear like.
+You can refer to [[EXAMPLES]] to get an idea of what different types of characters can appear like.
 
