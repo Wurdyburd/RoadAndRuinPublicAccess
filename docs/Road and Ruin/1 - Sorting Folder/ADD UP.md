@@ -1,0 +1,5 @@
+#### V1 SKILL CHECKS: [[ADD UP]]
+- Using the Add-Up resolution system, a player adds Xd10, where X is the character's [[ATTRIBUTE]], plus up to two relevant [[PROFICIENCY]], of up to five points each. [[SPECIALIZATION]] multiplies the benefits of proficiency, but only in specific circumstances.
+- Every 10 points indicates another Success. One Success, is enough for a simple task that can sometimes fail, but failure by 1 Success usually only requires trying again. Two Success is enough for an activity that requires some practice, and might cause damage or consequences for failure by 2 Successes. Three successes is required for specialized work, and failure by three successes leads to severe consequences.
+	- EX. A character with DEX 3, Manipulation 3 + Somatosense 2, and Lockpicking specialization, generates (3d10) + ((3+2)x(1+Lockpick)), or 3d10 + 10.
+- Rolling 10s and 1s adds 1 Good Luck per excess 10, or 1 Bad Luck per excess 1. For every 2 points of Good Luck, add +1d10 to the roll. For every 2 points of Bad Luck, subtract 1d10 from the final roll. Negative successes can occur, having destructive consequences.

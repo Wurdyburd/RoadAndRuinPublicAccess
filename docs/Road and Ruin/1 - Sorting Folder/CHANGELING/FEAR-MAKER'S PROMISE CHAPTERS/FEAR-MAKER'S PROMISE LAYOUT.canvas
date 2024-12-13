@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"a3af52f1f990a055","x":-400,"y":-90,"width":250,"height":60,"type":"text","text":"GRIM NECESSITY\n"},
+		{"id":"ce8ca2de56d61213","x":-104,"y":-90,"width":250,"height":60,"type":"text","text":"TAKEN"},
+		{"id":"0d9ef8a678d0dd62","x":146,"y":-303,"width":250,"height":60,"type":"text","text":"INTO THORNS"},
+		{"id":"6a0931ed23d49d2e","x":780,"y":-500,"width":250,"height":60,"type":"text","text":"DOLL'S HOUSE"},
+		{"id":"17461ffddc8da24b","x":620,"y":-303,"width":250,"height":60,"type":"text","text":"PUSH AND PULL"},
+		{"id":"cf56f05a9d8a0bf2","x":440,"y":-400,"width":250,"height":60,"type":"text","text":"FOUND"},
+		{"id":"395c28c956e25ee5","x":1105,"y":-460,"width":250,"height":60,"type":"text","text":"THE OTHERS ATTACK"},
+		{"id":"f9e12ebcdbb4a7bb","x":1030,"y":-303,"width":250,"height":60,"type":"text","text":"WRITING THE CONTRACT"}
+	],
+	"edges":[
+		{"id":"a062d99e384f77b9","fromNode":"a3af52f1f990a055","fromSide":"right","toNode":"ce8ca2de56d61213","toSide":"left"},
+		{"id":"ee7364d9598136fb","fromNode":"ce8ca2de56d61213","fromSide":"right","toNode":"0d9ef8a678d0dd62","toSide":"left"},
+		{"id":"20b479d73cd74bf3","fromNode":"ce8ca2de56d61213","fromSide":"right","toNode":"17461ffddc8da24b","toSide":"left"},
+		{"id":"695ee16fedd24fbf","fromNode":"0d9ef8a678d0dd62","fromSide":"right","toNode":"cf56f05a9d8a0bf2","toSide":"left"},
+		{"id":"5fc1bb10e3dfc1dd","fromNode":"cf56f05a9d8a0bf2","fromSide":"right","toNode":"6a0931ed23d49d2e","toSide":"left"},
+		{"id":"bf16767b35952868","fromNode":"6a0931ed23d49d2e","fromSide":"right","toNode":"395c28c956e25ee5","toSide":"left"},
+		{"id":"51484e09086fceb2","fromNode":"395c28c956e25ee5","fromSide":"right","toNode":"f9e12ebcdbb4a7bb","toSide":"left"},
+		{"id":"9db45ab4ebc7f311","fromNode":"6a0931ed23d49d2e","fromSide":"right","toNode":"f9e12ebcdbb4a7bb","toSide":"left"},
+		{"id":"062d32521fc133fc","fromNode":"17461ffddc8da24b","fromSide":"right","toNode":"395c28c956e25ee5","toSide":"left"},
+		{"id":"a8c499f95b368052","fromNode":"17461ffddc8da24b","fromSide":"right","toNode":"0d9ef8a678d0dd62","toSide":"left"}
+	]
+}
